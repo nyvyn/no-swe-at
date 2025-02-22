@@ -1,0 +1,2 @@
+aider-chat==0.74.2
+langgraph==0.2.74
